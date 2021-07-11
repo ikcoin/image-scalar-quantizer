@@ -16,4 +16,4 @@ python3 scalar_cat_decoder.py quantized_image.bin recovered_cat_image.png
 ```
 
 # Results
-After endcode and decode 193 images, the final average Mean Squared Error (MSE) is 52.761987462. 
+After encode and decode 193 images, the final average Mean Squared Error (MSE) is 52.761987462. 
